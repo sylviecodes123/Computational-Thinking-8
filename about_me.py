@@ -1,0 +1,7 @@
+print("My name is Sylvie")
+print("My favorite drink is and iced latte from starbucks")
+print("my favorite color is light pink")
+print("I do cheer and i ski")
+print("now let me hear about you")
+their_name = input("whats your name")
+print(f"hi {their_name}, nice to meet you")
