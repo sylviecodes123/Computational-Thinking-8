@@ -62,12 +62,12 @@ elif answer5 == "D":
 if house_points > pop_points and house_points > country_points and house_points > rap_points:
     #You get this ending if you choose the most for house
     print ("Your favorite genre is house!! lets go party!")
-if pop_points > house_points and pop_points > rap_points and pop_points > country_points
+if pop_points > house_points and pop_points > rap_points and pop_points > country_points:
     #you get this ending by answering pop the most
     print ("Your favprote genre is Pop!!")
-if country_points > pop_points and country_points > rap_points and country_points > house_points
+if country_points > pop_points and country_points > rap_points and country_points > house_points:
     #you get this ending by answering country the most
     print ("Your favorite genre is country!! go get your boots on!")
-if rap_points > pop_points and rap_points > country_points and rap_points > house_points
+if rap_points > pop_points and rap_points > country_points and rap_points > house_points:
     #you get this ending by answering rap the most
     print ("Your favorite genre is rap!! yeet, skrtt!")
